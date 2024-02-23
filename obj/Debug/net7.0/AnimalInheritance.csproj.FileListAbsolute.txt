@@ -1,0 +1,15 @@
+/Users/tylerbreithaupt/Desktop/CIT195/AnimalInheritance/bin/Debug/net7.0/AnimalInheritance
+/Users/tylerbreithaupt/Desktop/CIT195/AnimalInheritance/bin/Debug/net7.0/AnimalInheritance.deps.json
+/Users/tylerbreithaupt/Desktop/CIT195/AnimalInheritance/bin/Debug/net7.0/AnimalInheritance.runtimeconfig.json
+/Users/tylerbreithaupt/Desktop/CIT195/AnimalInheritance/bin/Debug/net7.0/AnimalInheritance.dll
+/Users/tylerbreithaupt/Desktop/CIT195/AnimalInheritance/bin/Debug/net7.0/AnimalInheritance.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/AnimalInheritance/obj/Debug/net7.0/AnimalInheritance.csproj.AssemblyReference.cache
+/Users/tylerbreithaupt/Desktop/CIT195/AnimalInheritance/obj/Debug/net7.0/AnimalInheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tylerbreithaupt/Desktop/CIT195/AnimalInheritance/obj/Debug/net7.0/AnimalInheritance.AssemblyInfoInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/AnimalInheritance/obj/Debug/net7.0/AnimalInheritance.AssemblyInfo.cs
+/Users/tylerbreithaupt/Desktop/CIT195/AnimalInheritance/obj/Debug/net7.0/AnimalInheritance.csproj.CoreCompileInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/AnimalInheritance/obj/Debug/net7.0/AnimalInheritance.dll
+/Users/tylerbreithaupt/Desktop/CIT195/AnimalInheritance/obj/Debug/net7.0/refint/AnimalInheritance.dll
+/Users/tylerbreithaupt/Desktop/CIT195/AnimalInheritance/obj/Debug/net7.0/AnimalInheritance.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/AnimalInheritance/obj/Debug/net7.0/AnimalInheritance.genruntimeconfig.cache
+/Users/tylerbreithaupt/Desktop/CIT195/AnimalInheritance/obj/Debug/net7.0/ref/AnimalInheritance.dll
